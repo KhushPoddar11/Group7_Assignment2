@@ -1,3 +1,5 @@
+package ADVJava_assignment1;
+
 import java.util.Scanner;
 
 public class HospitalQueueWithCustomADT {
