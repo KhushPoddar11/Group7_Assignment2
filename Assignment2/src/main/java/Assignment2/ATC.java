@@ -19,6 +19,7 @@ class RealLifeATC {
         root = null;
     }
 
+    // Insert a flight into BST
     public void scheduleFlight(int flightNumber, int landingTime) {
         root = insertFlight(root, flightNumber, landingTime);
         System.out.println("Scheduled Flight " + flightNumber + " at " + landingTime + " minutes.");
