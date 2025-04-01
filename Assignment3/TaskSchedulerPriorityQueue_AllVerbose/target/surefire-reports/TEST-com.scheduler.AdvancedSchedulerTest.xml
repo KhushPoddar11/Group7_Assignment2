@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.scheduler.AdvancedSchedulerTest" time="341.514" tests="7" errors="0" skipped="0" failures="0">
+  <properties/>
+  <testcase name="testMixedInsertions" classname="com.scheduler.AdvancedSchedulerTest" time="0.004"/>
+  <testcase name="testLargeQueueHandling" classname="com.scheduler.AdvancedSchedulerTest" time="25.585"/>
+  <testcase name="testPerformanceAllQueues" classname="com.scheduler.AdvancedSchedulerTest" time="315.916"/>
+  <testcase name="testSamePriorityTasks" classname="com.scheduler.AdvancedSchedulerTest" time="0.001"/>
+  <testcase name="testPeekAndRemove" classname="com.scheduler.AdvancedSchedulerTest" time="0"/>
+  <testcase name="testEmergencyVsRoutineTasks" classname="com.scheduler.AdvancedSchedulerTest" time="0"/>
+  <testcase name="testEmptyQueueOperations" classname="com.scheduler.AdvancedSchedulerTest" time="0.001"/>
+</testsuite>
